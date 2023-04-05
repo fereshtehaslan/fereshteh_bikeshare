@@ -10,3 +10,4 @@ Udacity course project
 from udacity course
 ### Credits
 Udacity learning courses
+This project aim to learn about python together with git
