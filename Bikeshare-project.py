@@ -24,7 +24,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+#This project aim to learn python
 # In[2]:
 
 
