@@ -24,7 +24,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+#This project aim to learn python
 # In[2]:
 
 
@@ -79,6 +79,10 @@ def load_data(city, month, day):
     df = pd.read_csv(CITY_DATA['chicago'])
 #convert the Start Time column to datetime
     df['Start Time']=pd.to_datetime(df['Start Time'])    
+    # load data file into a dataframe
+    df = pd.read_csv(CITY_DATA['washington'])
+#convert the Start Time column to datetime
+    df['Start Time']=pd.to_datetime(df['Start Time'])   
 
 #extract month and day of week from Start Time to create new columns
     df['month'] = df['Start Time'].dt.month
@@ -143,6 +147,10 @@ def trip_duration_stats(df):
     # display mean travel time
     mean_travel_time = df['Trip Duration'].mean()
     print("mean travel time:",mean_travel_time)
+
+    # display median travel time
+    median_travel_time = df['Trip Duration'].median()
+    print("median travel time:",median_travel_time)
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
