@@ -13,5 +13,11 @@ Describe what your project is about and what it does
 Include the files used
 
 ### Credits
+<<<<<<< HEAD
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 Add median travel time calculation in python codesgit 
+=======
+Udacity learning courses
+This project aim to learn about python together with git
+I added washnigton to data frame to see the bikeshare trend of washington city.
+>>>>>>> documentation
