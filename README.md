@@ -11,3 +11,4 @@ from udacity course
 ### Credits
 Udacity learning courses
 This project aim to learn about python together with git
+I added washnigton to data frame to see the bikeshare trend of washington city.
