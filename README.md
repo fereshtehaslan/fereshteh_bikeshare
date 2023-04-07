@@ -1,15 +1,17 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-04.05.2023
-### Project Title
-Fereshteh-bikeshare
-### Description
-Udacity course project
-### Files used
-from udacity course
-### Credits
-Udacity learning courses
-This project aim to learn about python together with git
+Include the date you created this project and README file.
 
-I added washnigton to data frame to see the bikeshare trend of washington city.
+### Project Title
+Replace the Project Title
+
+### Description
+Describe what your project is about and what it does
+
+### Files used
+Include the files used
+
+### Credits
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Add median travel time calculation in python codesgit 
